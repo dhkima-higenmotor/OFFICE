@@ -1,0 +1,20 @@
+The LaTeXiT-metadata software is provided 'as-is', without any express or implied
+warranty.  In no event will the authors be held liable for any damages
+arising from the use of this software.
+Permission is granted to anyone to use this software for any purpose,
+including commercial applications, and to alter it and redistribute it
+freely, subject to the following restrictions:
+1. The origin of this software must not be misrepresented; you must not
+   claim that you wrote the original software. If you use this software
+   in a product, an acknowledgment in the product documentation would be
+   appreciated but is not required.
+2. Altered source versions must be plainly marked as such, and must not be
+   misrepresented as being the original software.
+3. This notice may not be removed or altered from any source distribution.
+
+The LaTeXiT-metadata executable is distributed with 3 third-party DLLs, which have their own licenses:
+- zlib.dll (Full license: https://www.zlib.net/zlib_license.html)
+- freetype.dll: Portions of this software are copyright © 2000 The FreeType Project (www.freetype.org).  All rights reserved. (Full license: https://github.com/ubawurinna/freetype-windows-binaries/blob/master/FTL.TXT)
+- podofo.dll (LGPL license, see: http://podofo.sourceforge.net/about.html#lic)
+
+
